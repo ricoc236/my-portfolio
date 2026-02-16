@@ -1,14 +1,13 @@
-/* color palette from <https://github.com/vuejs/theme> */
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-:root {
 
 
-}
 
-/* semantic color variables for this project */
-:root {
+
+body {
+	background-color: #6D8196;
 
 }
 
